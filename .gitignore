@@ -1,6 +1,0 @@
-# Ignora la cartella di debug
-/Debug/
-# Ignora i seguenti file
-*.md
-*.pdf
-
